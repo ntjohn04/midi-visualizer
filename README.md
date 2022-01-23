@@ -41,7 +41,7 @@ is a stop button, which is needed because just exiting the program does not yet 
 the sounds will have to be stopped by closing the java task in Task Manager, or by waiting.
 
 ## Video Demonstration
-<video src=https://www.youtube.com/watch?v=hNJa1hOPtPI width=180/>
+[![midi-visualizer](https://i.ytimg.com/vi/hNJa1hOPtPI/maxresdefault.jpg)](https://www.youtube.com/watch?v=hNJa1hOPtPI)
 
 ## E-MAIL
 
