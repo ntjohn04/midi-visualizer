@@ -38,10 +38,10 @@ for each note, then played with Clip.Start().
 ### MidiPlayerDriver
 Creates the GUI elements and the file chooser dialogue. Once a file has been chosen it will construct a MidiPlayer. The only GUI element
 is a stop button, which is needed because just exiting the program does not yet stop the scheduled sound tasks (be warned!). If this is accidentally done, 
-the sounds will have to be stopped by closing the java task in Task Manager.
+the sounds will have to be stopped by closing the java task in Task Manager, or by waiting.
 
 ## Video Demonstration
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hNJa1hOPtPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video src=https://www.youtube.com/watch?v=hNJa1hOPtPI width=180/>
 
 ## E-MAIL
 
